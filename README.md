@@ -1,4 +1,4 @@
-# Differentially-Private-Set-Based-Estimation-Using-Zonotopes
+# Privacy-Preserving Set-Based Estimation Using Differential Privacy and Zonotopes
 This repo is the code and data used to evaluate our [paper](https://ieeexplore.ieee.org/document/10178269) <br />
 Mohammed M. Dawoud, Changxin Liu, Amr Alanwar, and Karl Henrik Johansson "Differentially-Private-Set-Based-Estimation-Using-Zonotopes"<br />
 <br />
