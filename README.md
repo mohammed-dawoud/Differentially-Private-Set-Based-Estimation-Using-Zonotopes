@@ -8,7 +8,7 @@ For large-scale cyber-physical systems, the collaboration of spatially distribut
 Questions and support are welcome at eng.mohamed.dawoud@gmail.com
 
 # Citations
-To cite <b>Privacy-Preserving-Processing-of-Boolean-Functions-Using-TFHE</b> in academic papers, please use the following entry:
+To cite <b>Privacy-Preserving Set-Based Estimation Using Differential Privacy and Zonotopes</b> in academic papers, please use the following entry:
 
 ```text
 @software{Differentially-Private-Set-Based-Estimation-Using-Zonotopes-2026,
