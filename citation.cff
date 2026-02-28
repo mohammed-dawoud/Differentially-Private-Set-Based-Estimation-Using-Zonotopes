@@ -7,6 +7,7 @@ authors:
 title: "Differentially-Private-Set-Based-Estimation-Using-Zonotopes"
 version: 1.0.0
 date-released: 2026-02-28
+doi: 10.5281/zenodo.18818365
 url: "https://github.com/mohammed-dawoud/Differentially-Private-Set-Based-Estimation-Using-Zonotopes"
 license: "MIT"
 keywords:
